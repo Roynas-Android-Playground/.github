@@ -18,5 +18,5 @@ Royna's playground for various phones that are (were) associated with him.
 - SM8150: Android 14 (Linux 4.14.190)
 - SM6225: Android 14 (Linux 4.19.297)
 
-# 🤔 Total Number of visitors:
+# 🤔 Total Number of visitors since 11/24/2023:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Roynas-Android-Playground)
