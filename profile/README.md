@@ -2,15 +2,15 @@
 
 Royna's playground for various phones that are (were) associated with him.
 
-# Samsung Exynos9611
+### Samsung Exynos9611
 - Galaxy A51 4G
 - Galaxy M21
 - Galaxy M31
 - Galaxy M31s
 - Galaxy F41
-# Samsung SM8150
+### Samsung SM8150
 - Galaxy A90 5G (Personal main device)
-# Lenovo SM6225
+### Lenovo SM6225
 - Lenovo TB128FU (Aka Lenovo Xiaoxin Pad 2022)
 
 # 🔭 My Work (Supported Android versions of ROMs)
