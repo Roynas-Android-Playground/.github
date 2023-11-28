@@ -2,6 +2,10 @@
 
 Royna's playground for various phones that are (were) associated with him.
 
+### Samsung Exynos8890/8895 (Unmaintained)
+- Galaxy S7
+- Galaxy S8
+- Galaxy S8+
 ### Samsung Exynos9611
 - Galaxy A51 4G
 - Galaxy M21
@@ -14,6 +18,7 @@ Royna's playground for various phones that are (were) associated with him.
 - Lenovo TB128FU (Aka Lenovo Xiaoxin Pad 2022)
 
 # 🔭 My Work (Supported Android versions of ROMs)
+- Exynos8890/8895: Android 13 (Linux 3.18.x 4.4.x)
 - Exynos9611: Android 14 (Linux 4.14.210)
 - SM8150: Android 14 (Linux 4.14.190)
 - SM6225: Android 14 (Linux 4.19.297)
