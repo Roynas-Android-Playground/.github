@@ -19,9 +19,9 @@ Royna's playground for various phones that are (were) associated with him.
 
 # 🔭 My Work (Supported Android versions of ROMs)
 - Exynos8890/8895: Android 13 (Linux 3.18.x 4.4.x)
-- Exynos9611: Android 14 (Linux 4.14.210)
-- SM8150: Android 14 (Linux 4.14.190)
-- SM6225: Android 14 (Linux 4.19.297)
+- Exynos9611: Android 14 (Linux 4.14.275)
+- SM8150: Android 14 (Linux 4.14.331)
+- SM6225: Android 14 (Linux 4.19.300)
 
 # 🤔 Total Number of visitors since 11/24/2023:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Roynas-Android-Playground)
