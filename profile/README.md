@@ -6,7 +6,7 @@ Royna's playground for various phones that are (were) associated with him.
 - Galaxy S7
 - Galaxy S8
 - Galaxy S8+
-### Samsung Exynos9611
+### Samsung Exynos9611 (Unmaintained)
 - Galaxy A51 4G
 - Galaxy M21
 - Galaxy M31
