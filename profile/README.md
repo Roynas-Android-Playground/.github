@@ -4,7 +4,6 @@ Royna's playground for various phones that are (were) associated with him.
 
 ### Samsung Exynos7870
 - Galaxy Wide 2 (Or J7 pop)
-- 
 ### Samsung Exynos8890/8895 (Unmaintained)
 - Galaxy S7
 - Galaxy S8
