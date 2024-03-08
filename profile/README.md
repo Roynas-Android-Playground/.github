@@ -9,7 +9,6 @@ Royna's playground for various phones that are (were) associated with him.
 ### Samsung MSM8974
 - Ga;axy S4 LTE-A
 ### Samsung Exynos8890/8895 (Unmaintained)
-- Galaxy S7
 - Galaxy S8
 - Galaxy S8+
 ### Samsung Exynos9611 (Unmaintained)
