@@ -19,7 +19,7 @@ Royna's playground for various phones that are (were) associated with him.
 - Galaxy F41
 - Galaxy M30s (maybe)
 ### Samsung SM8150
-- Galaxy A90 5G
+- Galaxy A90 5G (Sold)
 ### Lenovo SM6225
 - Lenovo TB128FU (Aka Lenovo Xiaoxin Pad 2022)
 
