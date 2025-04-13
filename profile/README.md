@@ -7,10 +7,17 @@ Royna's playground for various phones that are (were) associated with him.
 ### Samsung Exynos7870
 - Galaxy Wide 2 (Or J7 pop)
 ### Samsung MSM8974
-- Ga;axy S4 LTE-A
+- Galaxy S4 LTE-A
 ### Samsung Exynos8890/8895 (Unmaintained)
 - Galaxy S8
 - Galaxy S8+
+### Samsung Exynos7885
+- Galaxy A10
+- Galaxy A20
+- Galaxy A20e
+- Galaxy A30
+- Galaxy A30s
+- Galaxy A40
 ### Samsung Exynos9611 (Unmaintained)
 - Galaxy A51 4G
 - Galaxy M21
@@ -25,6 +32,7 @@ Royna's playground for various phones that are (were) associated with him.
 
 # 🔭 My Work (Supported Android versions of ROMs)
 - Exynos8890/8895: Android 13 (Linux 3.18.x 4.4.x)
+- Exynos7885: Android 11-15 (Linux 4.4.302)
 - Exynos9611: Android 14 (Linux 4.14.275)
 - SM8150: Android 14 QPR2 (Linux 4.14.331)
 - SM6225: Android 15 (Linux 4.19.306)
